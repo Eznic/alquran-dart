@@ -41449,7 +41449,7 @@ List<VerseTranslation> idIndonesianIslamicAffairsMinistry = [
     id: 180337,
     verseKey: "67:1",
     text:
-        "Mahasuci Allah yang menguasai (segala) kerajaan, Dan Dia Mahakuasa atas segala sesuatu.",
+        "Mahasuci (Mahaberkah) Allah yang di tangan-Nya segala kerajaan, dan Dia Maha Kuasa atas segala sesuatu.",
     languageName: "indonesian",
     resourceID: 33,
   ),
